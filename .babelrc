@@ -5,6 +5,8 @@
          { "src": "./src", "expose": "src" },
          { "src": "./src/config.js", "expose": "config" },
          { "src": "./src/utils/consts.js", "expose": "consts" },
+         { "src": "./src/components", "expose": "components" },
+         { "src": "./src/reducers/index.js", "expose": "reducers" },
       ]]
    ]
 }
